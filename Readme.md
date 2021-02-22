@@ -1,6 +1,7 @@
-This code was used to develop a sepsis identification study. If you use it of find it inspirational, 
-please consider to cite the following study:  
+**A novel AI based ICU monitoring system: using physiological waveforms to identify sepsis**
 
+If you use this code or find it of inspiration,
+please consider to cite the following study:  
 
 Mollura, M., Lheman,L., Mark, R.G., & Barbieri, R. (2020). 
 A novel AI based ICU monitoring system: using physiological waveforms to identify sepsis. 
