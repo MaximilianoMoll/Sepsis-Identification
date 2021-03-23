@@ -1,7 +1,7 @@
 **A novel AI based ICU monitoring system: using physiological waveforms to identify sepsis**
 
 If you use this code or find it of inspiration,
-please consider to cite the following study:  
+please consider to cite the corresponding study:  
 
 Mollura, M., Lehman,L., Mark, R.G., & Barbieri, R. (2020). 
 A novel AI based ICU monitoring system: using physiological waveforms to identify sepsis. 
